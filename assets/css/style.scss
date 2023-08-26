@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 .logo {
-    size="32";
-    width="32";
-    height="32"; 
+    size="50";
+    width="50";
+    height="50";
 }
 .circle {
     border-radius: var(--borderRadius-full, 50%) !important;
