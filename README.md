@@ -20,12 +20,12 @@
 
 # Cloud Talk
 ## 2023
-[Enable Helm chart using ArgoCD on GKE @ Cloud Native Chennai event
+- [Enable Helm chart using ArgoCD on GKE @ Cloud Native Chennai event
 ](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/)
-[Cluster multi-tenancy on GKE @ GDG Cloud Chennai event](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/)
+- [Cluster multi-tenancy on GKE @ GDG Cloud Chennai event](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/)
 
 ## 2022
-[Glimpse of Google Cloud Ecosystem @ Google Cloud Community Day 2022 Chennai](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
-[Enable ArgoCD on GKE @ Cloud Native Chennai event](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
-[Glimpse of GKE @ Google Cloud Community Day 2022 Chennai](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
-[Multi-team platform on GKE @ DevFest 2022 Chennai](https://devfest.gdgchennai.in/agenda)
+- [Glimpse of Google Cloud Ecosystem @ Google Cloud Community Day 2022 Chennai](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
+- [Enable ArgoCD on GKE @ Cloud Native Chennai event](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
+- [Glimpse of GKE @ Google Cloud Community Day 2022 Chennai](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
+- [Multi-team platform on GKE @ DevFest 2022 Chennai](https://devfest.gdgchennai.in/agenda)
