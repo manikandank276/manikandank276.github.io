@@ -1,4 +1,4 @@
-![#GoogleCloudCertified Architect](https://templates.images.credential.net/16590181582433100721069374350922.png =25x25)
+[<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="#GoogleCloudCertified Architect" width="100px" height="100px"/>]()
 # Credential
 - Google Cloud Certified “Professional Cloud Architect”, Jan 2023.
 - HashiCorp Certified “Terraform Associate”, May 2021.
