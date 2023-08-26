@@ -1,8 +1,7 @@
 title: Manikandan Krishnamurthy
-description: "#GoogleCloudCertified Architect | Cloud Tech Influencer"
+description: "#GoogleCloudCertified Architect | Cloud Enthusiastic"
 remote_theme: pages-themes/cayman@v0.2.0
 logo: https://avatars.githubusercontent.com/u/11567265
 plugins:
 - jekyll-remote-theme
-- jekyll-target-blank
 show_downloads: False
