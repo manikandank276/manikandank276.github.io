@@ -12,8 +12,20 @@
 - [Google Cloud Certified “Associate Cloud Engineer”, Jan 2021.](https://www.credential.net/2cfd4c7d-21d5-45e4-bdb0-deeb44ff8a5e)
 - [Oracle certified “Oracle E-Business Suite 12 Financial Management: Oracle Receivables” specialist, Jan 2015.](https://www.credly.com/badges/b9966f68-8bba-4df9-870b-f21f7241313b)
 
-# Cloud Tech Volunteering
+# Cloud Volunteering
 - [Kubernetes Community Days 2023 \| CNCF](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378)
 - [Kubernetes Community Days 2022 \| CNCF](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584)
 - [15+ events @ Cloud Native Chennai \| CNCF](https://community.cncf.io/chennai/)
 - [50+ events @ GDG Cloud Chennai \| Google Developers](https://community.cncf.io/chennai/)
+
+# Cloud Talk
+## 2023
+[Enable Helm chart using ArgoCD on GKE @ Cloud Native Chennai event
+](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/)
+[Cluster multi-tenancy on GKE @ GDG Cloud Chennai event](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/)
+
+## 2022
+[Glimpse of Google Cloud Ecosystem @ Google Cloud Community Day 2022 Chennai](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
+[Enable ArgoCD on GKE @ Cloud Native Chennai event](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
+[Glimpse of GKE @ Google Cloud Community Day 2022 Chennai](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)
+[Multi-team platform on GKE @ DevFest 2022 Chennai](https://devfest.gdgchennai.in/agenda)
