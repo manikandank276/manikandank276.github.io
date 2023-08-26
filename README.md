@@ -13,7 +13,7 @@
 - [Oracle certified “Oracle E-Business Suite 12 Financial Management: Oracle Receivables” specialist, Jan 2015.](https://www.credly.com/badges/b9966f68-8bba-4df9-870b-f21f7241313b)
 
 # Cloud Tech Volunteering
-- [Kubernetes Community Days 2023 \| CNCF](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378?target=_blank)
+- [Kubernetes Community Days 2023 \| CNCF](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378)
 - [Kubernetes Community Days 2022 \| CNCF](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584)
 - [15+ events @ Cloud Native Chennai \| CNCF](https://community.cncf.io/chennai/)
 - [50+ events @ GDG Cloud Chennai \| Google Developers](https://community.cncf.io/chennai/)
