@@ -1,8 +1,8 @@
 [<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="#GoogleCloudCertified Architect" width="100px" height="100px"/>](https://www.credential.net/9912e793-3443-4106-ae12-d68b9a5c7cf8)
 [<img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified Terraform Associate" width="100px" height="100px"/>](https://www.credly.com/badges/0a7d6791-e971-4dac-b8f3-fe02701d5bbe)
 [<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" alt="#GoogleCloudCertified Associate Cloud Engineer" width="100px" height="100px"/>](https://www.credential.net/2cfd4c7d-21d5-45e4-bdb0-deeb44ff8a5e)
-[<img src="https://images.credly.com/size/680x680/images/ec106369-5571-493d-80dd-8ef7be486870/image.png" alt="Kubernetes Community Days 2023" width="100px" height="100px"/>](https://images.credly.com/size/680x680/images/ec106369-5571-493d-80dd-8ef7be486870/image.png)
-[<img src="https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Kubernetes Community Days 2022" width="100px" height="100px"/>](https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png)
+[<img src="https://images.credly.com/size/680x680/images/ec106369-5571-493d-80dd-8ef7be486870/image.png" alt="Kubernetes Community Days 2023" width="100px" height="100px"/>](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378)
+[<img src="https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Kubernetes Community Days 2022" width="100px" height="100px"/>](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584)
 [<img src="https://images.credly.com/size/680x680/images/e9f394a5-e65a-4116-b8a8-9818ed6ba30f/Oracle_Specialist_Badge__1_.png" alt="Oracle certified Oracle E-Business Suite 12 Financial Management Oracle Receivables" width="100px" height="100px"/>](https://www.credly.com/badges/b9966f68-8bba-4df9-870b-f21f7241313b)
 
 # About Me
