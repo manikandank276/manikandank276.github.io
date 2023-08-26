@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+.logo {
+    size="32";
+    width="32";
+    height="32"; 
+}
 .circle {
     border-radius: var(--borderRadius-full, 50%) !important;
 }
