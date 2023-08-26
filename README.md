@@ -7,3 +7,9 @@
 - [HashiCorp Certified “Terraform Associate”, May 2021.](https://www.credly.com/badges/0a7d6791-e971-4dac-b8f3-fe02701d5bbe)
 - [Google Cloud Certified “Associate Cloud Engineer”, Jan 2021.](https://www.credential.net/2cfd4c7d-21d5-45e4-bdb0-deeb44ff8a5e)
 - [Oracle certified “Oracle E-Business Suite 12 Financial Management: Oracle Receivables” specialist, Jan 2015.](https://www.credly.com/badges/b9966f68-8bba-4df9-870b-f21f7241313b)
+
+# Cloud Tech Volunteering
+- Kubernetes Community Days 2023 | CNCF
+- Kubernetes Community Days 2022 | CNCF
+- 15+ events @ Cloud Native Chennai | CNCF
+- 50+ events @ GDG Cloud Chennai | Google Developers
