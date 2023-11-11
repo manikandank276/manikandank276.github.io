@@ -15,7 +15,7 @@
 `Google Cloud Platform (GCP)` , `Kubernetes` , `Terraform`
 
 # Certification
-| Certification                                                                                               | Link                                                                    |
+| Certification                                                                                               | Reference                                                               |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Google Cloud Certified “Professional Cloud Architect”, Jan 2023                                             | [1](https://www.credential.net/9912e793-3443-4106-ae12-d68b9a5c7cf8) , [<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="#GoogleCloudCertified Architect" width="100px" height="100px"/>](https://www.credential.net/9912e793-3443-4106-ae12-d68b9a5c7cf8)    |
 | HashiCorp Certified “Terraform Associate”, May 2021                                                         | [1](https://www.credly.com/badges/0a7d6791-e971-4dac-b8f3-fe02701d5bbe) , [<img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified Terraform Associate" width="100px" height="100px"/>](https://www.credly.com/badges/0a7d6791-e971-4dac-b8f3-fe02701d5bbe) |
@@ -25,11 +25,11 @@
 
 
 # Cloud Volunteering
-| Volunteering                                                 | Link                                                                    |
+| Volunteering                                                 | Reference                                                               |
 |--------------------------------------------------------------|-------------------------------------------------------------------------|
-| Organized Kubernetes Community Days Chennai 2023             | [1](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378) |
-| Contributed ~3 GCP technical blog to Google Dev Library      | [1](https://devlibrary.withgoogle.com/authors/manikandank276)           |
-| Organized Kubernetes Community Days Chennai 2022             | [1](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) |
+| Organized Kubernetes Community Days Chennai 2023             | [1](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378) , [<img src="https://images.credly.com/size/680x680/images/ec106369-5571-493d-80dd-8ef7be486870/image.png" alt="Kubernetes Community Days 2023" width="100px" height="100px"/>](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378) |
+| Contributed ~3 GCP technical blog at Google Dev Library      | [1](https://devlibrary.withgoogle.com/authors/manikandank276) , [<img src="https://developers.google.com/static/profile/badges/community/devlibrarycontributor/badge.svg" alt="Dev Library Contributor" width="100px" height="100px"/>](https://developers.google.com/profile/u/manikandank276)           |
+| Organized Kubernetes Community Days Chennai 2022             | [1](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) , [<img src="https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Kubernetes Community Days 2022" width="100px" height="100px"/>](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) |
 | Organized ~15 events @ Cloud Native Chennai                  | [1](https://community.cncf.io/chennai/)                                 |
 | Organized ~50 events @ Google Developer Groups Cloud Chennai | [1](https://gdg.community.dev/gdg-cloud-chennai/)                       |
 
