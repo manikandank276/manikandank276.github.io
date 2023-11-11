@@ -35,6 +35,7 @@
 
 # Cloud Talk
 ## 2023
+- [GKE for Startups @ Starup success days 2023 Chennai](https://twitter.com/manikandank276/status/1721201659916034197)
 - [Enable Helm chart using ArgoCD on GKE @ Cloud Native Chennai event
 ](https://community.cncf.io/events/details/cncf-chennai-presents-enable-helm-chart-using-argocd-on-google-kubernetes-engine-gke/)
 - [Cluster multi-tenancy on GKE @ GDG Cloud Chennai event](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-shuffle-mar-2023/)
