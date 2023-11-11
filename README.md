@@ -1,4 +1,3 @@
-### Follow me @ [X / Twitter](https://twitter.com/manikandank276) , [LinkedIn](https://www.linkedin.com/in/manikandank276)
 
 [<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="#GoogleCloudCertified Architect" width="100px" height="100px"/>](https://www.credential.net/9912e793-3443-4106-ae12-d68b9a5c7cf8)
 [<img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified Terraform Associate" width="100px" height="100px"/>](https://www.credly.com/badges/0a7d6791-e971-4dac-b8f3-fe02701d5bbe)
@@ -8,6 +7,8 @@
 [<img src="https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Kubernetes Community Days 2022" width="100px" height="100px"/>](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584)
 [<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovator" width="100px" height="100px"/>](https://developers.google.com/profile/u/manikandank276)	
 [<img src="https://images.credly.com/size/680x680/images/e9f394a5-e65a-4116-b8a8-9818ed6ba30f/Oracle_Specialist_Badge__1_.png" alt="Oracle certified Oracle E-Business Suite 12 Financial Management Oracle Receivables" width="100px" height="100px"/>](https://www.credly.com/badges/b9966f68-8bba-4df9-870b-f21f7241313b)
+
+### Follow me @ [X / Twitter](https://twitter.com/manikandank276) , [LinkedIn](https://www.linkedin.com/in/manikandank276)
 
 # About Me
 - Proficient in designing, implementing, and troubleshooting Google Cloud Platform (GCP) solutions.
