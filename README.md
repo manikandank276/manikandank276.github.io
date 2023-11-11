@@ -1,3 +1,5 @@
+### Follow me @ [X / Twitter](https://twitter.com/manikandank276) , [LinkedIn](https://www.linkedin.com/in/manikandank276)
+
 [<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" alt="#GoogleCloudCertified Architect" width="100px" height="100px"/>](https://www.credential.net/9912e793-3443-4106-ae12-d68b9a5c7cf8)
 [<img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified Terraform Associate" width="100px" height="100px"/>](https://www.credly.com/badges/0a7d6791-e971-4dac-b8f3-fe02701d5bbe)
 [<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" alt="#GoogleCloudCertified Associate Cloud Engineer" width="100px" height="100px"/>](https://www.credential.net/2cfd4c7d-21d5-45e4-bdb0-deeb44ff8a5e)
