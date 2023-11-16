@@ -13,6 +13,8 @@
 # About Me
 - Proficient in designing, implementing, and troubleshooting Google Cloud Platform (GCP) solutions.
 - Passionate about the cloud community and committed to helping others learn about and use Google Cloud Platform (GCP).
+
+<p align="center">════ ⋆★⋆ ════</p>
   
 # Technology
 `Google Cloud Platform (GCP)` , `Kubernetes` , `Terraform`
