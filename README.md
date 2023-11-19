@@ -17,7 +17,7 @@
 <p align="center">════ ⋆★⋆ ════</p>
   
 # Technology
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform (GCP)" width="40px" height="40px" align='middle'/>](https://cloud.google.com/) `Google Cloud Platform (GCP)` , [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40px" height="40px" align='middle'/>](https://kubernetes.io/) `Kubernetes` , [<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40px" height="40px" align='middle'/>](https://www.terraform.io/) `Terraform`
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform (GCP)" width="40px" height="40px" align='middle'/>](https://cloud.google.com/) `Google Cloud Platform (GCP)` , [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40px" height="40px" align='middle'/>](https://kubernetes.io/) `Kubernetes` , [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40px" height="40px" align='middle'/>](https://www.terraform.io/) `Terraform`
 
 # Certification
 | Certification                                                                                               | Reference                                                               |
