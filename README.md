@@ -34,8 +34,8 @@
 | Organized Kubernetes Community Days Chennai 2023             | [1](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378) , [<img src="https://images.credly.com/size/680x680/images/ec106369-5571-493d-80dd-8ef7be486870/image.png" alt="Kubernetes Community Days 2023" width="100px" height="100px"/>](https://www.credly.com/badges/238b0ecc-2d8a-4cc2-8030-c4bffca5a378) |
 | Contributed ~3 GCP technical blog at Google Dev Library      | [1](https://devlibrary.withgoogle.com/authors/manikandank276) , [<img src="https://developers.google.com/static/profile/badges/community/devlibrarycontributor/badge.svg" alt="Dev Library Contributor" width="100px" height="100px"/>](https://developers.google.com/profile/u/manikandank276)           |
 | Organized Kubernetes Community Days Chennai 2022             | [1](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) , [<img src="https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Kubernetes Community Days 2022" width="100px" height="100px"/>](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) |
-| Organized ~15 events @ Cloud Native Chennai                  | [1](https://community.cncf.io/chennai/)                                 |
-| Organized ~50 events @ Google Developer Groups Cloud Chennai | [1](https://gdg.community.dev/gdg-cloud-chennai/)                       |
+| Organized 19 events @ Cloud Native Chennai                  | [1](https://community.cncf.io/chennai/)                                 |
+| Organized 55 events @ Google Developer Groups Cloud Chennai | [1](https://gdg.community.dev/gdg-cloud-chennai/)                       |
 
 # Cloud Talk
 ## 2023
