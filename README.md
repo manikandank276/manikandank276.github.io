@@ -10,8 +10,7 @@
 ### Follow me @ [X / Twitter](https://twitter.com/manikandank276) , [LinkedIn](https://www.linkedin.com/in/manikandank276)
 
 # About Me
-- Proficient in designing, implementing, and troubleshooting Google Cloud Platform (GCP) solutions.
-- Passionate about the cloud community and committed to helping others learn about and use Google Cloud Platform (GCP).
+Strategic and results-driven GCP Architect with 6 years of specialized experience in Google Cloud Platform (GCP), complemented by a total of 15 years in the IT industry. Proven expertise in designing and implementing robust cloud solutions. Passionate about knowledge sharing and actively contributes to the cloud community through workshops, mentorship, and content creation.
 
 <p align="center">════ ⋆★⋆ ════</p>
   
@@ -35,7 +34,7 @@
 | Contributed ~3 GCP technical blog at Google Dev Library      | [1](https://devlibrary.withgoogle.com/authors/manikandank276) , [<img src="https://developers.google.com/static/profile/badges/community/devlibrarycontributor/badge.svg" alt="Dev Library Contributor" width="100px" height="100px"/>](https://developers.google.com/profile/u/manikandank276)           |
 | Organized Kubernetes Community Days Chennai 2022             | [1](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) , [<img src="https://images.credly.com/size/680x680/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Kubernetes Community Days 2022" width="100px" height="100px"/>](https://www.credly.com/badges/88c72f1b-eecf-42b6-a688-3b2aee53f584) |
 | Organized 19 events @ Cloud Native Chennai                  | [1](https://community.cncf.io/chennai/)                                 |
-| Organized 55 events @ Google Developer Groups Cloud Chennai | [1](https://gdg.community.dev/gdg-cloud-chennai/)                       |
+| Organized 57 events @ Google Developer Groups Cloud Chennai | [1](https://gdg.community.dev/gdg-cloud-chennai/)                       |
 
 # Cloud Talk
 ## 2023
